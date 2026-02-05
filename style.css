@@ -222,8 +222,8 @@ border-radius: 25px
   font-weight: 700;
   font-size: 14px;
   transform-origin: center;
-  color: black;
-  background-color: maroon;
+  color: maroon;
+  background-color: gray;
   animation: float 4s ease-in-out infinite;
 }
 
