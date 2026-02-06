@@ -3,7 +3,7 @@ body {
   font-family: 'Times New Roman', Times, serif;
 
 
-  background-color: rgb(255, 255, 221);
+  background-color: rgb(224, 220, 220);
 
 
 }
@@ -55,7 +55,8 @@ i {
 }
 
 header {
-  background-color: rgb(255, 255, 221);
+
+  background-color: rgb(224, 220, 220);
 }
 
 iframe {
@@ -262,7 +263,9 @@ border-radius: 25px
   display: inline-block;
 } */
 footer {
-  background-color: rgba(110, 44, 46);
+
+  background-color: rgb(161, 161, 161);
+  color:  black;
 }
 
 .team {
@@ -270,7 +273,7 @@ footer {
 }
 
 footer p {
-  color: white;
+ 
   text-align: center !important;
   /* Force center */
   width: 100%;
