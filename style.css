@@ -1,9 +1,9 @@
 body {
 
-  font-family: 'Times New Roman', Times, serif;
+  font-family:";
 
 
-  background-color: rgb(224, 220, 220);
+  background-color:rgba(#F5F5FF);
 
 
 }
@@ -51,12 +51,15 @@ i {
 
 
 .logo img {
-  height: 70px;
+  height: 100px;
 }
 
 header {
 
-  background-color: rgb(224, 220, 220);
+  background-color:rgb(255, 255, 255);
+}
+li{
+  font-size: 17px;
 }
 
 iframe {
