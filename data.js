@@ -69,3 +69,7 @@ function show(num) {
   if (num === 6) document.getElementById("img6").src = "img/specialites 2.jpeg";
 }
 
+
+
+
+
